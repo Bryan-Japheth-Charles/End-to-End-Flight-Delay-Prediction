@@ -1,4 +1,4 @@
-# ✈️ Flight Price Prediction using Machine Learning (India-based)
+# ✈️ Flight Price Prediction using Machine Learning 
 
 ## 📘 Project Overview
 This project is an interactive **web application built using Streamlit** that predicts **domestic flight ticket prices in India**.  
